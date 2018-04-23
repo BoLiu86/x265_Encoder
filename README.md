@@ -11,7 +11,7 @@ c. Copy files "x265.h", "x265_config.h", "libx265.lib", and "libx265.dll" to a n
 d. Set the above folder as the develop folder, and include "x265.h".
 
 ### Encoding performance
-In this experiment, in order to evaluate the performance of the x265 encoder, seven test sequences, which are suggested for the HEVC, from the dataset provided by MPEG are used. From the following table, it can be observed that the maximum compression ratio is reached 490 for ¡°Traffic¡±. And the compression result for other sequences is also high, which is more efficient. 
+In this experiment, in order to evaluate the performance of the x265 encoder, seven test sequences, which are suggested for the HEVC, from the dataset provided by MPEG are used. From the following table, it can be observed that the maximum compression ratio is reached 490 for "Traffic". And the compression result for other sequences is also high, which is more efficient. 
 <table>
   <tr>
     <th width=9%>Class</th>
